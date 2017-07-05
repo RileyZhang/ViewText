@@ -1,2 +1,0 @@
-# ViewText
-just a test
